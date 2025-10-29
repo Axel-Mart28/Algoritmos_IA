@@ -13,7 +13,17 @@
 Dentro de los cuáles se podrán encontrar los siguientes temas y subtemas
 <h3> Busqueda En Grafos: </h3>
 <ol>
-<li>Busqueda No Informada </li>
+<li>Busqueda No Informada 
+<ol>
+<li> Búsqueda en Anchura </li>
+<li> Búsqueda en Anchura de Costo Uniforme </li>
+ <li> Búsqueda en Profundidad</li>
+<li> Búsqueda en Profundidad Limitada </li>
+<li> Búsqueda en Profundidad Iterativa </li>
+<li> Búsqueda Bidireccional </li>
+<li> Búsqueda en Grafos </li>
+</ol>
+</li>
 <li>Busqueda Informada</li>
 <li>Satisfaccion De Restricciones</li>
 <li>Utilidad Y Toma De Decisiones</li>
