@@ -2,3 +2,11 @@
 <li>
 Busqueda en Grafos:
 </li>
+<br>
+<li>
+Probabilidad (Intertidumbre)
+</li>
+<br>
+<li>
+Lógica
+</li>
