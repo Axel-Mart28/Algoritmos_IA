@@ -171,3 +171,16 @@ Dentro de los cuáles se podrán encontrar los siguientes temas y subtemas
 
 </li>
 </ol>
+
+<h2> Librerias necesarias para llevar a cabo la ejecucion de los algoritmos: </h2>
+<li> pip install numpy <li>
+<li> pip install pandas </li>
+<li>pip install matplotlib </li>
+<li>pip install opencv-python </li>
+<li>pip install scikit-learn </li>
+<li>pip install gradio </li>
+<li>pip install pomegranate </li>  
+<li>pip install scipy </li>
+<li>pip install opencv-python </li>
+
+
