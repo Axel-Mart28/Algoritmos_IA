@@ -1,4 +1,4 @@
-# En éste repositorio se podrán encontrar algoritmos de IA basados en 3 principales enfoques:
+# En éste repositorio se podrán encontrar algoritmos de IA basados en 2 principales enfoques:
 <li>
 <h2>Busqueda en Grafos: </h2>
 </li>
@@ -7,9 +7,6 @@
 <h2>Probabilidad (Intertidumbre)</h2>
 </li>
 <br>
-<li>
-<h2> Lógica </h2>
-</li>
 Dentro de los cuáles se podrán encontrar los siguientes temas y subtemas
 <h3> Busqueda En Grafos: </h3>
 <ol>
